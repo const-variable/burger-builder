@@ -1,11 +1,12 @@
 import React from 'react';
+import Layout from './components/layout/Layout';
 
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
-  );
+    <Layout>
+      <p> Hello World </p> 
+    </Layout>
+    );
 }
 
 export default App;
