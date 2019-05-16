@@ -1,5 +1,5 @@
 
-##Introduction
+## Introduction
 
 Hi, My name is Maulik Chaudhay. I am building this app along side the tutorial that I'm watching on React.js.
 This is a Burger builder app that lets you make a virtual burger. 
